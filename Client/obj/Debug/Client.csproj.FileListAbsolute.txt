@@ -1,0 +1,15 @@
+D:\programers\material\level_4\Network Programming\New folder\Client\Client\bin\Debug\Client.exe.config
+D:\programers\material\level_4\Network Programming\New folder\Client\Client\bin\Debug\Client.exe
+D:\programers\material\level_4\Network Programming\New folder\Client\Client\bin\Debug\Client.pdb
+D:\programers\material\level_4\Network Programming\New folder\Client\Client\bin\Debug\Interop.WMPLib.dll
+D:\programers\material\level_4\Network Programming\New folder\Client\Client\bin\Debug\AxInterop.WMPLib.dll
+D:\programers\material\level_4\Network Programming\New folder\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\programers\material\level_4\Network Programming\New folder\Client\Client\obj\Debug\Interop.WMPLib.dll
+D:\programers\material\level_4\Network Programming\New folder\Client\Client\obj\Debug\AxInterop.WMPLib.dll
+D:\programers\material\level_4\Network Programming\New folder\Client\Client\obj\Debug\Client.csproj.ResolveComReference.cache
+D:\programers\material\level_4\Network Programming\New folder\Client\Client\obj\Debug\Client.Form1.resources
+D:\programers\material\level_4\Network Programming\New folder\Client\Client\obj\Debug\Client.Properties.Resources.resources
+D:\programers\material\level_4\Network Programming\New folder\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\programers\material\level_4\Network Programming\New folder\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\programers\material\level_4\Network Programming\New folder\Client\Client\obj\Debug\Client.exe
+D:\programers\material\level_4\Network Programming\New folder\Client\Client\obj\Debug\Client.pdb

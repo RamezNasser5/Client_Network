@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programers\\material\\level_4\\Network Programming\\New folder\\Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D627A6-61E3-4B7B-A027-8CFD43B40B35}|Client\\Client.csproj|d:\\programers\\material\\level_4\\network programming\\new folder\\client\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D627A6-61E3-4B7B-A027-8CFD43B40B35}|Client\\Client.csproj|solutionrelative:client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D627A6-61E3-4B7B-A027-8CFD43B40B35}|Client\\Client.csproj|D:\\programers\\material\\level_4\\Network Programming\\New folder\\Client\\client\\helperfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D627A6-61E3-4B7B-A027-8CFD43B40B35}|Client\\Client.csproj|solutionrelative:client\\helperfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D627A6-61E3-4B7B-A027-8CFD43B40B35}|Client\\Client.csproj|D:\\programers\\material\\level_4\\Network Programming\\New folder\\Client\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3D627A6-61E3-4B7B-A027-8CFD43B40B35}|Client\\Client.csproj|solutionrelative:client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelperFunctions.cs",
+              "DocumentMoniker": "D:\\programers\\material\\level_4\\Network Programming\\New folder\\Client\\Client\\HelperFunctions.cs",
+              "RelativeDocumentMoniker": "Client\\HelperFunctions.cs",
+              "ToolTip": "D:\\programers\\material\\level_4\\Network Programming\\New folder\\Client\\Client\\HelperFunctions.cs",
+              "RelativeToolTip": "Client\\HelperFunctions.cs",
+              "ViewState": "AQIAAAcAAABgMjMzMzMlwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:59:49.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\programers\\material\\level_4\\Network Programming\\New folder\\Client\\Client\\Form1.cs",
+              "RelativeDocumentMoniker": "Client\\Form1.cs",
+              "ToolTip": "D:\\programers\\material\\level_4\\Network Programming\\New folder\\Client\\Client\\Form1.cs",
+              "RelativeToolTip": "Client\\Form1.cs",
+              "ViewState": "AQIAAEgAAABAMDMzMzMTwEkAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:59:06.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\programers\\material\\level_4\\Network Programming\\New folder\\Client\\Client\\Form1.cs",
+              "RelativeDocumentMoniker": "Client\\Form1.cs",
+              "ToolTip": "D:\\programers\\material\\level_4\\Network Programming\\New folder\\Client\\Client\\Form1.cs [Design]",
+              "RelativeToolTip": "Client\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:58:23.698Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
